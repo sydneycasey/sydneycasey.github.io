@@ -6,12 +6,12 @@ I've always had a very curious and creative spirit. I like to dive deeply into a
 
 ## Why Software Engineering?
 
-When I was introduced to software development, I was intoxicated. like - Drunk in Love. The sheer vastness of what there is to be discovered in this field is nothing short of fascinating to me. Like I said before, I'm a creative person at heart. But I was seeking a career path that would challenge my intelligence. As a software engineer, I'm able to utilize my creativity and skills in design, as well as my natural ability to understand logic and problem-solving. 
+When I was introduced to software development, I was intoxicated. Like - Drunk in Love. The sheer vastness of what there is to be discovered in this field is nothing short of fascinating to me. Like I said before, I'm a creative person at heart. But I was seeking a career path that would challenge my intelligence. As a software engineer, I'm able to utilize my creativity and skills in design, as well as my natural ability to understand logic and problem-solving. 
 
 
 ## Okay, that's all great. But why should we hire you?
 
-I have excellent problem-solving skills, a positive attitude, and I'm able to quickly autonomously pick up new technologies. Forbes has a wonderful article highlighting the [importance of creativity in programming](https://www.forbes.com/sites/christianowens/2019/02/14/move-over-actors-and-artists-software-developers-are-true-creative-heroes/#63af45357127). Along with the points they make, I know developers generally work closely with marketers. I have experience with graphic design and a background in art, so I'm able to effectively communicate with people and make their visions come to life! Beyond that, **here are my technical skills and interests:** 
+I have excellent problem-solving skills, a positive attitude, and I'm able to quickly, autonomously pick up new technologies. Forbes has a wonderful article highlighting the [importance of creativity in programming](https://www.forbes.com/sites/christianowens/2019/02/14/move-over-actors-and-artists-software-developers-are-true-creative-heroes/#63af45357127). Along with the points they make, I know developers generally work closely with marketers. I have experience with graphic design and a background in art, so I'm able to effectively communicate with people and make their visions come to life! Beyond that, **here are my technical skills and interests:** 
 - React
 - HTML/CSS
 - Bootstrap
@@ -24,8 +24,6 @@ I have excellent problem-solving skills, a positive attitude, and I'm able to qu
 - ThreeJS (Really cool 3D animation Javascript framework!)
 
 ### What have you actually _made_?
-
-Three recent applications I have built, and photos:
 
 **Bandland** | NodeJS, Express, PostgreSQL, Cassandra, AWS
 _Music streaming service which gives the user album recommendations based on their current choice_
@@ -53,4 +51,4 @@ _An application made to inspire new and exciting ideas of what you can do with y
 
 ## What's important to you in a team?
 
-I thrive in a collaborative and fast-paced environment, whether it is remote or on-site. Work-life balance is important to me, I will happily put in extra time and effort to get stuff done but it is important to me that I work with a company who respects everybody's time and personal lives. I have excellent communication skills and am very easy-going, so I tend to be easy to work with.
+I thrive in a collaborative and fast-paced environment, whether it is remote or on-site. Work-life balance is important to me. I will happily put in extra time and effort to get stuff done but it means a lot to me to work with a company who respects everybody's time and personal lives. I have excellent communication skills and am very easy-going, so I tend to be easy to work with.
