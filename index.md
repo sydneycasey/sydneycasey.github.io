@@ -11,7 +11,7 @@ When I was introduced to software development, I was intoxicated. like - Drunk i
 
 ## Okay, that's all great. But why should we hire you?
 
-Forbes has a wonderful article explaining the [importance of creativity in programming](https://www.forbes.com/sites/christianowens/2019/02/14/move-over-actors-and-artists-software-developers-are-true-creative-heroes/#63af45357127) that explains how my skills can benefit you better than I can - or at least than I can in few enough words to not clutter this page! Beyond that, **here are my technical skills and interests:** 
+I have excellent problem-solving skills, a positive attitude, and I'm able to quickly autonomously pick up new technologies. Forbes has a wonderful article highlighting the [importance of creativity in programming](https://www.forbes.com/sites/christianowens/2019/02/14/move-over-actors-and-artists-software-developers-are-true-creative-heroes/#63af45357127). Along with the points they make, I know developers generally work closely with marketers. I have experience with graphic design and a background in art, so I'm able to effectively communicate with people and make their visions come to life! Beyond that, **here are my technical skills and interests:** 
 - React
 - HTML/CSS
 - Bootstrap
@@ -34,7 +34,7 @@ _Music streaming service which gives the user album recommendations based on the
 - Stress-tested in both development and production with 500+ RPS to ensure a quality user experience 
 - Connected multiple EC2 instances to form a functional proxy server with deployed databases
 
-![Image](s3://sydneycasey.github.io/bandland.png)
+![Image](https://s3.ca-central-1.amazonaws.com/sydneycasey.github.io/bandland.png)
 
 **MyTable** | React, Bootstrap, Webpack, NodeJS, Express, MySQL, CSS Modules, Jest 
 _Location-based service to find and make restaurant reservations_
@@ -42,14 +42,14 @@ _Location-based service to find and make restaurant reservations_
 - Utilized test-driven development to prevent bugs, increase productivity, and write clean code
 - Worked in a group of engineers using agile scrum methodology to keep track of productivity
 
-![Image](s3://sydneycasey.github.io/mytable.jpg)
+![Image](https://s3.ca-central-1.amazonaws.com/sydneycasey.github.io/MyTable.jpg)
 
 **A New Day** | React, Webpack, Babel, CSS , NodeJS, Express, MySQL
 _An application made to inspire new and exciting ideas of what you can do with your day_
 - Engineered the application to give the user a suggestion for morning, afternoon, and evening activities - Created functionality in React and MySQL for the user to add, update, or delete events
 - Incorporated a weather API as a React component to allow for user interaction
 
-![Image](s3://sydneycasey.github.io/anewday.jpg)
+![Image](https://s3.ca-central-1.amazonaws.com/sydneycasey.github.io/anewday.jpg)
 
 ## What's important to you in a team?
 
