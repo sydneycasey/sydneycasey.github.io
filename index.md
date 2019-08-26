@@ -34,7 +34,7 @@ _Music streaming service which gives the user album recommendations based on the
 - Stress-tested in both development and production with 500+ RPS to ensure a quality user experience 
 - Connected multiple EC2 instances to form a functional proxy server with deployed databases
 
-![Image](https://ibb.co/yhqF0wq)
+![Image](s3://sydneycasey.github.io/bandland.png)
 
 **MyTable** | React, Bootstrap, Webpack, NodeJS, Express, MySQL, CSS Modules, Jest 
 _Location-based service to find and make restaurant reservations_
@@ -42,14 +42,14 @@ _Location-based service to find and make restaurant reservations_
 - Utilized test-driven development to prevent bugs, increase productivity, and write clean code
 - Worked in a group of engineers using agile scrum methodology to keep track of productivity
 
-![Image](https://ibb.co/mRkb20D)
+![Image](s3://sydneycasey.github.io/mytable.jpg)
 
 **A New Day** | React, Webpack, Babel, CSS , NodeJS, Express, MySQL
 _An application made to inspire new and exciting ideas of what you can do with your day_
 - Engineered the application to give the user a suggestion for morning, afternoon, and evening activities - Created functionality in React and MySQL for the user to add, update, or delete events
 - Incorporated a weather API as a React component to allow for user interaction
 
-![Image](https://ibb.co/wyMpGKm)
+![Image](s3://sydneycasey.github.io/anewday.jpg)
 
 ## What's important to you in a team?
 
