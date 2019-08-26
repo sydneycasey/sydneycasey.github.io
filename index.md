@@ -11,7 +11,7 @@ When I was introduced to software development, I was intoxicated. like - Drunk i
 
 ## Okay, that's all great. But why should we hire you?
 
-Forbes has a wonderful article explaining the importance of creativity in programming ([Link](https://www.forbes.com/sites/christianowens/2019/02/14/move-over-actors-and-artists-software-developers-are-true-creative-heroes/#63af45357127)) that explains how my skills can benefit you better than I can - or at least than I can in few enough words to not clutter this page! Beyond that, **here are my technical skills and interests:** 
+Forbes has a wonderful article explaining the [importance of creativity in programming](https://www.forbes.com/sites/christianowens/2019/02/14/move-over-actors-and-artists-software-developers-are-true-creative-heroes/#63af45357127) that explains how my skills can benefit you better than I can - or at least than I can in few enough words to not clutter this page! Beyond that, **here are my technical skills and interests:** 
 - React
 - HTML/CSS
 - Bootstrap
@@ -33,17 +33,22 @@ _Music streaming service which gives the user album recommendations based on the
 - Benchmarked query times with both databases to determine which was best for my use case
 - Stress-tested in both development and production with 500+ RPS to ensure a quality user experience 
 - Connected multiple EC2 instances to form a functional proxy server with deployed databases
+
 ![Image](https://ibb.co/yhqF0wq)
+
 **MyTable** | React, Bootstrap, Webpack, NodeJS, Express, MySQL, CSS Modules, Jest 
 _Location-based service to find and make restaurant reservations_
 - Constructed a single-page web application using service oriented architecture
 - Utilized test-driven development to prevent bugs, increase productivity, and write clean code
 - Worked in a group of engineers using agile scrum methodology to keep track of productivity
+
 ![Image](https://ibb.co/mRkb20D)
+
 **A New Day** | React, Webpack, Babel, CSS , NodeJS, Express, MySQL
 _An application made to inspire new and exciting ideas of what you can do with your day_
 - Engineered the application to give the user a suggestion for morning, afternoon, and evening activities - Created functionality in React and MySQL for the user to add, update, or delete events
 - Incorporated a weather API as a React component to allow for user interaction
+
 ![Image](https://ibb.co/wyMpGKm)
 
 ## What's important to you in a team?
