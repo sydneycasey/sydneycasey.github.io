@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+![Image](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/49608064_2264251306927495_3585183848226357248_n.jpg?_nc_cat=109&_nc_oc=AQlHteCR0kk8YVXtqAFbB2J5ppGvhaCZemB6OA3RAHA6msgt2gcGvkeaFWxbXPfZ1n4&_nc_ht=scontent-ort2-1.xx&oh=01e63dd7dff791d25c74b8f5614245f0&oe=5DCC7DA8)
 
-You can use the [editor on GitHub](https://github.com/sydneycasey/sydneycasey.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Who is Sydney Casey?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I've always had a very curious and creative spirit. I like to dive deeply into an array of different creative hobbies and see what sticks. In my free time, I make music, write poetry, and create other forms of physical art. I'm also passionate about the environment and enjoy spending a lot of time outdoors!
 
-### Markdown
+## Why Software Engineering?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+When I was introduced to software development, I was intoxicated. like - Drunk in Love. The sheer vastness of what there is to be discovered in this field is nothing short of fascinating to me. Like I said before, I'm a creative person at heart. But I was seeking a career path that would challenge my intelligence. As a software engineer, I'm able to utilize my creativity and skills in design, as well as my natural ability to understand logic and problem-solving. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Okay, that's all great. But why should we hire you?
 
-- Bulleted
-- List
+Forbes has a wonderful article explaining the importance of creativity in programming ([Link](https://www.forbes.com/sites/christianowens/2019/02/14/move-over-actors-and-artists-software-developers-are-true-creative-heroes/#63af45357127)) that explains how my skills can benefit you better than I can - or at least than I can in few enough words to not clutter this page! Beyond that, **here are my technical skills and interests:** 
+- React
+- HTML/CSS
+- Bootstrap
+- jQuery
+- JavaScript
+- Node.js
+- SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Cassandra) databases
+- Git
+- AWS
+- ThreeJS (Really cool 3D animation Javascript framework!)
 
-1. Numbered
-2. List
+### What have you actually _made_?
 
-**Bold** and _Italic_ and `Code` text
+Three recent applications I have built, and photos:
 
-[Link](url) and ![Image](src)
-```
+**Bandland** | NodeJS, Express, PostgreSQL, Cassandra, AWS
+_Music streaming service which gives the user album recommendations based on their current choice_
+- Extended MongoDB legacy codebase with PostgreSQL and Cassandra to support 100,000x more data 
+- Benchmarked query times with both databases to determine which was best for my use case
+- Stress-tested in both development and production with 500+ RPS to ensure a quality user experience 
+- Connected multiple EC2 instances to form a functional proxy server with deployed databases
+![Image](https://imgur.com/a/HDCcGhQ)
+**MyTable** | React, Bootstrap, Webpack, NodeJS, Express, MySQL, CSS Modules, Jest 
+_Location-based service to find and make restaurant reservations_
+- Constructed a single-page web application using service oriented architecture
+- Utilized test-driven development to prevent bugs, increase productivity, and write clean code
+- Worked in a group of engineers using agile scrum methodology to keep track of productivity
+![Image](https://imgur.com/a/F24kBPr)
+**A New Day** | React, Webpack, Babel, CSS , NodeJS, Express, MySQL
+_An application made to inspire new and exciting ideas of what you can do with your day_
+- Engineered the application to give the user a suggestion for morning, afternoon, and evening activities - Created functionality in React and MySQL for the user to add, update, or delete events
+- Incorporated a weather API as a React component to allow for user interaction
+![Image](https://imgur.com/a/QvJhwJf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## What's important to you in a team?
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sydneycasey/sydneycasey.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I thrive in a collaborative and fast-paced environment, whether it is remote or on-site. Work-life balance is important to me, I will happily put in extra time and effort to get stuff done but it is important to me that I work with a company who respects everybody's time and personal lives. I have excellent communication skills and am very easy-going, so I tend to be easy to work with.
