@@ -1,8 +1,8 @@
 ![Image](https://scontent-ort2-1.xx.fbcdn.net/v/t1.0-9/49608064_2264251306927495_3585183848226357248_n.jpg?_nc_cat=109&_nc_oc=AQlHteCR0kk8YVXtqAFbB2J5ppGvhaCZemB6OA3RAHA6msgt2gcGvkeaFWxbXPfZ1n4&_nc_ht=scontent-ort2-1.xx&oh=01e63dd7dff791d25c74b8f5614245f0&oe=5DCC7DA8)
 
-## Who is Sydney Casey?
+## Who am I?
 
-I've always had a very curious and creative spirit. I like to dive deeply into an array of different creative hobbies and see what sticks. In my free time, I make music, write poetry, and create other forms of physical art. I'm also passionate about the environment and enjoy spending a lot of time outdoors!
+As you could guess from the address and wherever you got this link from, my name is Sydney. I've been full-stack software engineer for almost one year now. Outside of work, I've always had a very curious and creative spirit. I like to dive deeply into an array of different creative hobbies and see what sticks. In my free time, I make music, write poetry, and create other forms of physical art. I'm also passionate about the environment and enjoy spending a lot of time outdoors!
 
 ## Why Software Engineering?
 
@@ -23,7 +23,7 @@ I have excellent problem-solving skills, a positive attitude, and I'm able to qu
 - AWS
 - ThreeJS (Really cool 3D animation Javascript framework!)
 
-### What have you actually _made_?
+### What have I actually _made?_
 
 **Bandland** | NodeJS, Express, PostgreSQL, Cassandra, AWS
 _Music streaming service which gives the user album recommendations based on their current choice_
@@ -49,6 +49,14 @@ _An application made to inspire new and exciting ideas of what you can do with y
 
 ![Image](https://s3.ca-central-1.amazonaws.com/sydneycasey.github.io/anewday.jpg)
 
-## What's important to you in a team?
+## What's important to me in a team?
 
 I thrive in a collaborative and fast-paced environment, whether it is remote or on-site. Work-life balance is important to me. I will happily put in extra time and effort to get stuff done but it means a lot to me to work with a company who respects everybody's time and personal lives. I have excellent communication skills and am very easy-going, so I tend to be easy to work with.
+
+# Contact Info:
+casey.sydney@gmail.com
+(863) 224-4758
+[Github](https://github.com/sydneycasey)
+[LinkedIn](https://linkedin.com/in/sydneycasey)
+
+## Thanks for visiting!
