@@ -53,10 +53,10 @@ _An application made to inspire new and exciting ideas of what you can do with y
 
 I thrive in a collaborative and fast-paced environment, whether it is remote or on-site. Work-life balance is important to me. I will happily put in extra time and effort to get stuff done but it means a lot to me to work with a company who respects everybody's time and personal lives. I have excellent communication skills and am very easy-going, so I tend to be easy to work with.
 
-# Contact Info:
-casey.sydney@gmail.com
-(863) 224-4758
-[Github](https://github.com/sydneycasey)
-[LinkedIn](https://linkedin.com/in/sydneycasey)
+## Contact Info:
+- [casey.sydney@gmail.com](mailto:casey.sydney@gmail.com)
+- (863) 224-4758
+- [Github](https://github.com/sydneycasey)
+- [LinkedIn](https://linkedin.com/in/sydneycasey)
 
-## Thanks for visiting!
+# Thanks for visiting!
