@@ -1,13 +1,13 @@
 ## Who am I?
 
-Hello there! My name is Sydney, I'm a frontend software developer, and I'm passionate about my work. Outside of my job, I like to dive deeply into an array of different creative hobbies and see what sticks. In my free time, I make music, write poetry, and create other forms of physical art. I'm also passionate about the environment and enjoy spending a lot of time outdoors.
+Hello there! My name is Sydney, I'm a frontend software developer at Four51. Outside of my job, I like to dive deeply into an array of different creative hobbies and see what sticks. In my free time, I make music, write poetry, and create other forms of physical art. I'm also passionate about the environment and enjoy spending a lot of time outdoors.
 
 ## Why Software Engineering?
 
 The sheer vastness of what there is to be discovered in this field is nothing short of fascinating to me. Like I said before, I'm a creative person at heart. But I was seeking a career path that would challenge my intelligence. As a software engineer, I'm able to utilize my creativity and skills in design, as well as my natural ability to understand logic and problem-solving. 
 
 
-## Okay, that's all great. But why should we hire you?
+## What I'm good at:
 
 I have excellent problem-solving skills, a positive attitude, and I'm able to quickly, autonomously pick up new technologies. Forbes has a wonderful article highlighting the [importance of creativity in programming](https://www.forbes.com/sites/christianowens/2019/02/14/move-over-actors-and-artists-software-developers-are-true-creative-heroes/#63af45357127). Along with the points they make, I know developers generally work closely with marketers. I have experience with graphic design and a background in art, so I'm able to effectively communicate with people and make their visions come to life! Beyond that, **here are my technical skills and interests:** 
 - React
@@ -23,7 +23,7 @@ I have excellent problem-solving skills, a positive attitude, and I'm able to qu
 - Azure
 - ThreeJS
 
-### What have I actually _made?_
+## Things I've made for fun:
 
 **Bandland** | NodeJS, Express, PostgreSQL, Cassandra, AWS
 _Music streaming service which gives the user album recommendations based on their current choice_
