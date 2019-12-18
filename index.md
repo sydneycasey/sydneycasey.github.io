@@ -59,4 +59,6 @@ I thrive in a collaborative and fast-paced environment, whether it is remote or 
 - [Github](https://github.com/sydneycasey)
 - [LinkedIn](https://linkedin.com/in/sydneycasey)
 
+<a href="resumeSC.pdf" class="image fit"></a>	
+
 # Thanks for visiting!
