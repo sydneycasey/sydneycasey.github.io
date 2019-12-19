@@ -23,7 +23,10 @@ I have excellent problem-solving skills, a positive attitude, and I'm able to qu
 - Azure
 - ThreeJS
 
-## Things I've made for fun:
+## Things I've made:
+
+**Category Navigation**
+[image](https://giphy.com/gifs/category-dropdown-ZC5vHzj0gpqKjwOhvK)
 
 **Bandland** | NodeJS, Express, PostgreSQL, Cassandra, AWS
 _Music streaming service which gives the user album recommendations based on their current choice_
@@ -58,7 +61,5 @@ I thrive in a collaborative and fast-paced environment, whether it is remote or 
 - (863) 224-4758
 - [Github](https://github.com/sydneycasey)
 - [LinkedIn](https://linkedin.com/in/sydneycasey)
-
-<a href="resumeSC.pdf" class="image fit"></a>	
 
 # Thanks for visiting!
