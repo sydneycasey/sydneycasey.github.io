@@ -30,7 +30,7 @@ I thrive in a collaborative and fast-paced environment, whether it is remote or 
 
 # Things I've made:
 
-**Category Navigation**
+**Category Navigation**  
 ![](category-nav.gif)
 
 **Bandland** | NodeJS, Express, PostgreSQL, Cassandra, AWS
@@ -58,7 +58,6 @@ _An application made to inspire new and exciting ideas of what you can do with y
 ![Image](https://s3.ca-central-1.amazonaws.com/sydneycasey.github.io/anewday.jpg)
 
 ## Contact Info:
-- ![Resume](ResumeSC.pdf)
 - [casey.sydney@gmail.com](mailto:casey.sydney@gmail.com)
 - (863) 224-4758
 - [Github](https://github.com/sydneycasey)
