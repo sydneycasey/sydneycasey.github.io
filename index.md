@@ -9,14 +9,14 @@ The sheer vastness of what there is to be discovered in this field is nothing sh
 
 ## What I'm good at:
 
-I have excellent problem-solving skills, a positive attitude, and I'm able to quickly, autonomously pick up new technologies. Forbes has a wonderful article highlighting the [importance of creativity in programming](https://www.forbes.com/sites/christianowens/2019/02/14/move-over-actors-and-artists-software-developers-are-true-creative-heroes/#63af45357127). Along with the points they make, I know developers generally work closely with marketers. I have experience with graphic design and a background in art, so I'm able to effectively communicate with people and make their visions come to life! Beyond that, **here are my technical skills and interests:** 
+I have excellent problem-solving skills, a positive attitude, and I'm able to quickly, autonomously pick up new technologies. Forbes has a wonderful article highlighting the [importance of creativity in programming](https://www.forbes.com/sites/christianowens/2019/02/14/move-over-actors-and-artists-software-developers-are-true-creative-heroes/#63af45357127). I have a natural eye for design and experience with UI/UX putting that skill into practice. I have experience with graphic design and a background in art, so I'm able to effectively communicate with clients and make their visions come to life. Beyond that, **here are my technical skills and interests:** 
 - React
 - Angular
 - HTML/CSS
-- Bootstrap
-- jQuery
 - JavaScript
+- Bootstrap
 - Node.js
+- jQuery
 - SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Cassandra) databases
 - Git
 - AWS
